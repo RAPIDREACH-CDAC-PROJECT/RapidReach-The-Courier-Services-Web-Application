@@ -1,0 +1,45 @@
+ .hlink {
+    position: relative;
+    text-decoration: none;
+}
+  
+
+.hlink::after {
+  content: "";
+  position: absolute;
+  bottom: -7px;
+  left: 0;
+  height: 1px;
+  width: 90%;
+  /* background-color: rgb(247, 59, 59); */
+  background-color: whitesmoke;
+  transition: all 0.4s ease;
+  transform: scaleX(.5);
+  transform-origin: left;
+}
+
+.hlink:hover::after {
+  background-color: red;
+  transform: scaleX(1);
+} 
+
+/* span{
+    color: rgb(193, 6, 6);
+} */
+
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
