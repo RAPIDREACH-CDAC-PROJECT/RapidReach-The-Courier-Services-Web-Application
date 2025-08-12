@@ -2,7 +2,7 @@
 
 
 
-A full-stack courier platform streamlining parcel bookings, shipment tracking, and delivery management with dedicated dashboards for Customers, Employees, and Admins.
+A full-stack courier platform streamlining parcel bookings, shipment tracking, and delivery management with dedicated dashboards for Customers, Employees, and Admin.
 
 ---
 
