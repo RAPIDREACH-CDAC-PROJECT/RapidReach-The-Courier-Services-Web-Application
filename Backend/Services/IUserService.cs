@@ -1,4 +1,4 @@
-using RapidReachNET.DTO;
+﻿using RapidReachNET.DTO;
 using RapidReachNET.Models;
 
 namespace RapidReachNET.Services

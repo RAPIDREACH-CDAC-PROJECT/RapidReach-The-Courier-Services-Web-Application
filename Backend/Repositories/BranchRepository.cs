@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using RapidReachNET.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;

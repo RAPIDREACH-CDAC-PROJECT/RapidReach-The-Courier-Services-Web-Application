@@ -1,4 +1,4 @@
-using RapidReachNET.Models;
+﻿using RapidReachNET.Models;
 
 using Microsoft.EntityFrameworkCore;
 using RapidReachNET.Models;

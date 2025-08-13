@@ -1,0 +1,1067 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\icourierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\icourierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\migrations\\20250812195049_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:migrations\\20250812195049_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\migrations\\rapidreachcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:migrations\\rapidreachcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\icourierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\icourierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\courierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\courierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\rapidreachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\rapidreachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\trackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\trackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\userdtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\userdtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\courierrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\courierrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\courierdtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\courierdtop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\dto\\courierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:dto\\courierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\trackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\trackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\couriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\couriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\20250812194947_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250812194947_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\trackingservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\trackingservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\itrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\itrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\services\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:services\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\trackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\trackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|c:\\users\\lenovo\\downloads\\rapidreachnet\\rapidreachnet\\repositories\\itrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204CAE73-91EC-456E-82D5-7084C5819E48}|RapidReachNET.csproj|solutionrelative:repositories\\itrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IFeedbackRepository.cs",
+              "RelativeToolTip": "Repositories\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:27:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "Repositories\\FeedbackRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:46:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:52:36.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:53:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBranchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IBranchRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBranchRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IBranchRepository.cs",
+              "RelativeToolTip": "Repositories\\IBranchRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:57:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BranchRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\BranchRepository.cs",
+              "RelativeToolTip": "Repositories\\BranchRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:57:55.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourierService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\ICourierService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourierService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\ICourierService.cs",
+              "RelativeToolTip": "Services\\ICourierService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:51:25.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\CourierService.cs",
+              "RelativeDocumentMoniker": "Services\\CourierService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\CourierService.cs",
+              "RelativeToolTip": "Services\\CourierService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:52:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:13:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:42:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:42:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250812195049_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\20250812195049_initialmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250812195049_initialmigration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\20250812195049_initialmigration.cs",
+              "RelativeToolTip": "Migrations\\20250812195049_initialmigration.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAcwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:50:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RapidreachContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\RapidreachContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\RapidreachContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\RapidreachContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\RapidreachContextModelSnapshot.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAcwFIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:09:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\ICourierRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICourierRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\ICourierRepository.cs",
+              "RelativeToolTip": "Repositories\\ICourierRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:53:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\CourierRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourierRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\CourierRepository.cs",
+              "RelativeToolTip": "Repositories\\CourierRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:10:56.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:40:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:40:46.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Configuration\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Configuration\\JWTSettings.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Configuration\\JWTSettings.cs",
+              "RelativeToolTip": "Configuration\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:47:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DataInitializer\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DataInitializer\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DataInitializer\\DataSeeder.cs",
+              "RelativeToolTip": "DataInitializer\\DataSeeder.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:07:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tracking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Tracking.cs",
+              "RelativeDocumentMoniker": "Models\\Tracking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Tracking.cs",
+              "RelativeToolTip": "Models\\Tracking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RapidreachContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\RapidreachContext.cs",
+              "RelativeDocumentMoniker": "Models\\RapidreachContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\RapidreachContext.cs",
+              "RelativeToolTip": "Models\\RapidreachContext.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:50:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Courier.cs",
+              "RelativeDocumentMoniker": "Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Courier.cs",
+              "RelativeToolTip": "Models\\Courier.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Branch.cs",
+              "RelativeToolTip": "Models\\Branch.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:29:20.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:29:35.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA6wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\PaymentRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\PaymentRequestDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:19:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\PaymentDto.cs",
+              "RelativeToolTip": "DTO\\PaymentDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:12:02.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:35:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrackingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\TrackingDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TrackingDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\TrackingDto.cs",
+              "RelativeToolTip": "DTO\\TrackingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:53:11.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:42:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDtoR.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\UserDtoR.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDtoR.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\UserDtoR.cs",
+              "RelativeToolTip": "DTO\\UserDtoR.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:51:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FeedbackDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\FeedbackDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FeedbackDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\FeedbackDTO.cs",
+              "RelativeToolTip": "DTO\\FeedbackDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:32:09.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\EmployeeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EmployeeUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\EmployeeUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\EmployeeUpdateDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:02:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\EmployeeCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EmployeeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\EmployeeCreateDTO.cs",
+              "RelativeToolTip": "DTO\\EmployeeCreateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:58:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourierRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CourierRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierRequestDTO.cs",
+              "RelativeToolTip": "DTO\\CourierRequestDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:49:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CourierDtop.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierDtop.cs",
+              "RelativeDocumentMoniker": "DTO\\CourierDtop.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierDtop.cs",
+              "RelativeToolTip": "DTO\\CourierDtop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:30:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CourierDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CourierDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\DTO\\CourierDto.cs",
+              "RelativeToolTip": "DTO\\CourierDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:50:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:21:07.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:43:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:34:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TrackingController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\TrackingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrackingController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\TrackingController.cs",
+              "RelativeToolTip": "Controllers\\TrackingController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:45:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv2QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:37:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv7kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:54:36.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T19:47:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T01:52:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250812194947_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\20250812194947_initialmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250812194947_initialmigration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Migrations\\20250812194947_initialmigration.cs",
+              "RelativeToolTip": "Migrations\\20250812194947_initialmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:49:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CourierController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\CourierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourierController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Controllers\\CourierController.cs",
+              "RelativeToolTip": "Controllers\\CourierController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:54:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T00:31:13.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowCkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:26:38.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Services\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:25:34.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\IPaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:20:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TrackingService .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\TrackingService .cs",
+              "RelativeDocumentMoniker": "Services\\TrackingService .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\TrackingService .cs",
+              "RelativeToolTip": "Services\\TrackingService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:44:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:21:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:53:22.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ITrackingService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\ITrackingService.cs",
+              "RelativeDocumentMoniker": "Services\\ITrackingService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\ITrackingService.cs",
+              "RelativeToolTip": "Services\\ITrackingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:44:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:51:58.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\BranchService.cs",
+              "RelativeDocumentMoniker": "Services\\BranchService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\BranchService.cs",
+              "RelativeToolTip": "Services\\BranchService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:00:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IBranchService.cs",
+              "RelativeDocumentMoniker": "Services\\IBranchService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Services\\IBranchService.cs",
+              "RelativeToolTip": "Services\\IBranchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:00:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TrackingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\TrackingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TrackingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\TrackingRepository.cs",
+              "RelativeToolTip": "Repositories\\TrackingRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:13:31.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ITrackingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\ITrackingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITrackingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\RapidReachNET\\RapidReachNET\\Repositories\\ITrackingRepository.cs",
+              "RelativeToolTip": "Repositories\\ITrackingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:12:53.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
